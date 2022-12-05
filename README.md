@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradeep Pariyar
+- 👋 Hi, I’m Pradip
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Python
 - 📫 How to reach me iampradippariyar@gmail.com
